@@ -4,3 +4,24 @@
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 
 }
+@keyframes nowPlaying{
+  0%{
+    width: 0%;
+  }
+
+  100%{
+    width: 100%;
+  }
+}
+@keyframes nowPlayer{
+  0%{
+    width: 20%;
+  }
+  50%{
+    width:20%;
+  }
+  100%{
+    width: 20%;
+  }
+}
+
